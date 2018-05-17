@@ -33,8 +33,9 @@
     - class1
       - 1.初始化一个Git仓库，使用`git init`命令。
       - 2.添加文件到Git仓库，分两步：
-        - 第一步，使用命令`git add <file>`，注意，可反复多次使用，添加多个文件；
+        - 第一步，使用命令`git add <file>`，注意，可反复多次使用，添加多个文件；git add -A添加所有文件
         - 第二步，使用命令`git commit`，完成。
+        - git add -A添加所有文件；git status查看是否还有未提交
 
     - class2
       - 1.通过git log命令可以获取提交的日志。（--pretty=oneline）
