@@ -18,7 +18,7 @@
 
 ​	2.通过<script src='目标文档URL'></script>链接外部的Js文件
 
-​		![Snipaste_2018-05-17_21-47-39](F:\GitHub\web-design\study\Pictures\Snipaste_2018-05-17_21-47-39.png)
+​		![Snipaste_2018-05-17_21-47-39](laomaohpu/web-design\web-design\study\Pictures\Snipaste_2018-05-17_21-47-39.png)
 
 ​	3.作为某个元素的事件属性值或者超链接的href属性值
 
