@@ -1,3 +1,3 @@
-web-design/webstomÏîÄ¿/itĞŞÕæÔº/µÚÒ»¿Î/
-ÕâÊÇÒ»¸ö¹ØÓÚflexbox»ù´¡µÄ÷»×Ó²¼¾Ö
- [demo](http://laomaohpu.io/web-design/webstomÏîÄ¿/itĞŞÕæÔº/µÚÒ»¿Î/indexdemo.htm)
+web-design/webstomé¡¹ç›®/itä¿®çœŸé™¢/ç¬¬ä¸€è¯¾/
+è¿™æ˜¯ä¸€ä¸ªå…³äºflexboxåŸºç¡€çš„éª°å­å¸ƒå±€
+ [demo](http://laomaohpu.io/web-design/webstomé¡¹ç›®/itä¿®çœŸé™¢/ç¬¬ä¸€è¯¾/index.html)
