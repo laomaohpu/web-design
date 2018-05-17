@@ -16,6 +16,7 @@
     - [fork的使用](https://www.cnblogs.com/patchouli/p/6511251.html)
   - 顺便学习了markdown的使用，markdown软件：Typora。[markdown教程](https://blog.csdn.net/zhangruishi/article/details/70768923)
   - 初步完成库的创建，安装GitHub桌面版，克隆库到本地，修改本地文件，并通过github桌面版push到GitHub。
+  - GitHub desktop - history - right-hand button - revert this commit 取消提交操作。版本回滚：git命令[教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000)
 - [ ] （环境搭建）在github上创建一个项目：start a project（0.5H）
 - [ ] （编程实战）将项目clone到本地（0.5H）
 - [ ] （编程实战）在本地项目中编写任务代码（0.5H）
