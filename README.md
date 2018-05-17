@@ -1,3 +1,3 @@
-web-design/webstom项目/it修真院/第一课/
-这是一个关于flexbox基础的骰子布局
- [demo](http://laomaohpu.io/web-design/webstom项目/it修真院/第一课/indexdemo.htm)
+web-design/webstom锟斤拷目/it锟斤拷锟斤拷院/锟斤拷一锟斤拷/
+锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷flexbox锟斤拷锟斤拷锟斤拷锟斤拷锟接诧拷锟斤拷
+ [demo](http://laomaohpu.io/web-design/webstom锟斤拷目/it锟斤拷锟斤拷院/锟斤拷一锟斤拷/indexdemo.html)
