@@ -1,0 +1,31 @@
+/*通用样式*/
+* {
+    margin: 0;
+    padding: 0;
+
+    }
+
+/*p1样式*/
+.p1 {
+    width: 31%;
+    padding-bottom: 31%;
+    float: left;
+    background-color:yellow;
+    margin: 1%;
+    border-radius: 5%;
+    }
+
+/*备案信息*/
+.down {
+    font-size: 0.8em;
+    font-family: 黑体;
+    margin: auto;
+    width:100%;
+    background-color: yellow;
+    float: left;
+    text-align: center;
+    line-height: 200%;
+}
+.down a:link{
+    text-decoration: none;
+}

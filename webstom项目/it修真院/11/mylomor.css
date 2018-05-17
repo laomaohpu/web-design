@@ -1,0 +1,128 @@
+body{
+	width: 1000px;
+	background-color: #FAFAD2;
+	margin: 0 auto;
+	font-size: 12px;
+	font-family: 黑体;
+	font-weight: bold;
+}
+
+
+/*这是导航*/
+.navi{
+	width: 1000px;
+	height: 120px;
+	margin-top: 5px;
+	line-height: 80px;
+	border-bottom: 2px solid silver
+}
+
+/*这是logo*/
+.logo{
+	width: 240px;
+	height: 80px;
+	float: left;
+}
+
+
+/*这是found*/
+/*.found{
+	height: 80px;
+	float: right;
+	margin-left: 5px;
+	background-color: green;
+}*/
+.menu {
+	height: 50px;
+	list-style-type: none;
+	float:right;
+	line-height: 50px;
+	
+}
+.menu li {
+	display: block;
+    height: 50px;
+    font-size: 28px;
+	list-style-type: none;
+	float:left;
+	color:silver;
+	margin: 17px 0 0 0;
+}
+
+.menu li a{
+	display: block;
+	height: 50px;
+	width: 75px;
+	font-size: 28px;
+	float:left;
+	text-align: center;
+	line-height: 50px;
+}
+
+.menu li a:link{
+	color: silver;
+	text-decoration: none;
+	float:right;
+	}
+.menu li a:visited{
+	color: silver;
+}
+.menu li a:hover{
+	color: white;
+	background-color: silver;	
+}
+
+/*这是video*/
+.video{
+	width: 1000px;
+	hight:500px;
+	margin: 0 auto;
+}
+
+/*这是search*/
+.search{
+	width: 1000px;
+	text-align: center;
+	line-height: 40px;
+	border-bottom: 2px solid silver;
+        float:left
+}
+
+.search input1{
+	background-color: green;
+}
+
+
+/*这是video1*/
+.video1{
+	width: 800px;
+	height:500px;
+	margin: 0 auto;
+	margin-top: 5px;
+}
+
+
+/*这是font 1*/
+.font1{
+	border-top: 2px solid silver;
+	font-size: 30px;
+	color: red;
+	margin-top: 5px;
+	text-align: center;
+	}
+/*这是底部*/
+.down{
+	width: 1000px;
+	height: 30px;
+	margin-top: 5px;
+	font-size: 15px;
+	text-align: center;
+	padding-top: 5px;
+	line-height: 30px;
+	border-top: 2px solid silver;
+        
+}
+
+.down a:link{
+	text-decoration: none;
+	}
